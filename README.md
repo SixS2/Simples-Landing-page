@@ -1,5 +1,5 @@
 # Projeto Bimestral: Vendas de Sites | Vertex Web Studio
-
+# [SITE](https://sixs2.github.io/Simples-Landing-page/)
 ## Integrantes da dupla
 - Saniel Luca Da Silva Nogueira Mattei
 - Paulo Eduardo Mascarenhas Santos
