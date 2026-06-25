@@ -1,5 +1,5 @@
-# Projeto Bimestral: Vendas de Sites | Vertex Web Studio
 # [SITE](https://sixs2.github.io/Simples-Landing-page/)
+# Projeto Bimestral: Vendas de Sites | Vertex Web Studio
 ## Integrantes da dupla
 - Saniel Luca Da Silva Nogueira Mattei
 - Paulo Eduardo Mascarenhas Santos
@@ -34,8 +34,8 @@ Utilizamos o Bootstrap de forma introdutória focando nas classes utilitárias d
 Testamos a visualização no computador e reduzimos a janela do navegador para verificar a responsividade em tamanhos de tela mobile. O JavaScript foi testado clicando múltiplas vezes nos botões de FAQ. A acessibilidade foi checada garantindo alto contraste entre fundo escuro e letras claras.
 
 ## Links
-- **Link do repositório:** [INSERIR SEU LINK DO GITHUB AQUI]
-- **Link do site publicado:** [INSERIR SEU LINK DO GITHUB PAGES AQUI]
+- **Link do repositório:** [GIT](https://github.com/SixS2/Simples-Landing-page)
+- **Link do site publicado:** [SITE](https://sixs2.github.io/Simples-Landing-page/)
 
 ## Contribuição dos integrantes
 - **Saniel Luca Da Silva Nogueira Mattei:** Planejamento do diagnóstico, definição das cores, estruturação HTML e código JavaScript.
